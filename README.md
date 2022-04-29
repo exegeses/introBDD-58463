@@ -16,5 +16,12 @@
 > En la actualidad, y debido al desarrollo tecnológico de campos como la informática y la electrónica, la mayoría de las bases de datos están en formato digital (electrónico), que ofrece un amplio rango de soluciones al problema de almacenar datos.  
 > Una base de datos es un “almacén” que nos permite guardar grandes cantidades de información de forma organizada para que luego podamos encontrar y utilizar fácilmente.  
 
+## Software requirido para el curso: 
 
-https://downloads.mysql.com/archives/workbench/
+*** XAMPP ***
+https://docs.google.com/document/d/e/2PACX-1vRfIsGkrOzKO1LJpxfaqXkKIESnPjL3vgKBWXJTfJ985koVfPevZR5dvx7muZcqloTnHKnV_0qRmnWx/pub  
+
+*** MySQl Workbench ***
+https://docs.google.com/document/d/e/2PACX-1vSZSSEG3FHkmxt3pmh0SfVx5xY0uiuifXNYyJ1aOhhidUJShJCbqpquBvy6Tz-RNg/pub  
+
+https://downloads.mysql.com/archives/workbench/  
