@@ -18,10 +18,10 @@
 
 ## Software requirido para el curso: 
 
-*** XAMPP ***
+> *** XAMPP ***  
 https://docs.google.com/document/d/e/2PACX-1vRfIsGkrOzKO1LJpxfaqXkKIESnPjL3vgKBWXJTfJ985koVfPevZR5dvx7muZcqloTnHKnV_0qRmnWx/pub  
 
-*** MySQl Workbench ***
+> *** MySQl Workbench ***  
 https://docs.google.com/document/d/e/2PACX-1vSZSSEG3FHkmxt3pmh0SfVx5xY0uiuifXNYyJ1aOhhidUJShJCbqpquBvy6Tz-RNg/pub  
 
 https://downloads.mysql.com/archives/workbench/  
