@@ -16,3 +16,11 @@ USE introDB;
 --    nCampo tipoDato características
 -- )
 
+CREATE TABLE billeteras
+(
+    id int primary key auto_increment not null,
+    nombre varchar(60) not null,
+    precio float( 9, 2 ) not null,
+    stock int not null
+);
+
