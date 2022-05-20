@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS `marcas` (
+    `idMarca` TINYINT(255) NOT NULL AUTO_INCREMENT,
+    `mkNombre` VARCHAR(30) NOT NULL,
+    PRIMARY KEY (`idMarca`)
+)
+ENGINE = InnoDB;
