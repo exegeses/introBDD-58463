@@ -10,4 +10,4 @@ CREATE TABLE IF NOT EXISTS `productos`
     `prdActivo` TINYINT(1) NOT NULL,
     PRIMARY KEY (`idProducto`)
 )
-    ENGINE = InnoDB;
+ENGINE = InnoDB;
