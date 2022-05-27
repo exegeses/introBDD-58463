@@ -58,4 +58,4 @@ SELECT prdNombre, prdPrecio, mkNombre, catNombre
       ON productos.idMarca = marcas.idMarca
      JOIN categorias
       ON productos.idcategoria = categorias.idcategoria;
-    
+
